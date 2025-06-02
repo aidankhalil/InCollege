@@ -1,4 +1,5 @@
-# InCollege — Student Networking Platform
+# InCollege — Peer Networking Application
+**Duration:** May 2023 – Jun 2023
 
 > A LinkedIn-inspired app built for college networking, job sharing, and skill showcasing.  
 > Developed during Summer 2023 as part of Dr. James Anderson’s Software Engineering course.
@@ -32,8 +33,8 @@
 ---
 
 ### 👥 Team
-- Aidan Khalil  
-- Anna Khalus  
-- Jayson Jensen  
-- Quang Huynh  
-- Hussain Jhaveri
+- [Aidan Khalil](https://github.com/aidankhalil)  
+- [Anna Khalus](https://github.com/minari-23)  
+- [Jayson Jensen](https://github.com/3JRock)  
+- [Quang Huynh](https://github.com/quangh-q)  
+- [Hussain Jhaveri](https://github.com/hussainjhaveri)
