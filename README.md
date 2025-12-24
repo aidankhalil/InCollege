@@ -9,7 +9,7 @@
 ### ⚙️ Tech Stack
 - **Language:** Python  
 - **Database:** SQLite3  
-- **Testing:** Pytest
+- **Testing:** Pytest framework
 
 ---
 
@@ -38,3 +38,4 @@
 - [Jayson Jensen](https://github.com/3JRock)  
 - [Quang Huynh](https://github.com/quangh-q)  
 - [Hussain Jhaveri](https://github.com/hussainjhaveri)
+
